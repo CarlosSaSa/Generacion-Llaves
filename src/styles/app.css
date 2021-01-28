@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.fondo {
+    background: linear-gradient(to right, #8e2de2, #4a00e0);
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.contenedor {
+    width: 90%;
+    height: 90%;
+    background-color: #fff;
+    border-radius: 30px;
+}
+
+.tabs {
+    padding: 20px 50px;
+}

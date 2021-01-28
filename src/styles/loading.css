@@ -1,0 +1,12 @@
+.loading-registro {
+    display: flex;
+    height: 100%;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+.texto{
+    font-size: 1.5rem;
+    color: rgb(208, 117, 253);
+}
